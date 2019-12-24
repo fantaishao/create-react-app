@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
-  "version": "3.3.0",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "custom-react-scripts-toolkit",
+  "version": "1.0.0",
+  "description": "Custom configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",
